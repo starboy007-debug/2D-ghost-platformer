@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Collectable
+  - Exit
+  - Ground
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 44475359
+    locked: 0
+  - name: player
+    uniqueID: 2529452497
+    locked: 0
+  - name: enemy
+    uniqueID: 1293337389
+    locked: 0
+  - name: coin
+    uniqueID: 4192816155
+    locked: 0
+  - name: canvas
+    uniqueID: 588863939
+    locked: 0
